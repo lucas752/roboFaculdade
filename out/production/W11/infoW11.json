@@ -1,0 +1,11 @@
+{
+  "name": "W11 Eq Performance",
+  "version": "1.0",
+  "gameTypes": "melee, classic, 1v1",
+  "authors": "Lucas Monteiro",
+  "description": "It's HammerTime",
+  "homepage": "",
+  "countryCodes": "br",
+  "platform": "JVM",
+  "programmingLang": "Kotlin"
+}
