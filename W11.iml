@@ -9,6 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
-    <orderEntry type="library" name="robocode-tankroyale-bot-api-0.13.0" level="project" />
+    <orderEntry type="library" name="robocode-tankroyale-bot-api-0.13.2" level="project" />
   </component>
 </module>
