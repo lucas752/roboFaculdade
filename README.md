@@ -1,0 +1,1 @@
+Projeto da disciplina de Programação 2, que consiste na criação de um código para controlar um robô através do "Robocode - TankRoyale"
